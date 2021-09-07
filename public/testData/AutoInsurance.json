@@ -1,0 +1,20 @@
+{
+  "category": "auto",
+  "company": "AllState",
+  "type": "family",
+  "policy_number": "12AU10123145",
+  "group_id": "BCBS2",
+  "state": "IL",
+  "monthly_cost": 82.75,
+  "vehicles": [
+    {
+      "VIN": "TestVIN1",
+      "make": "Mazda",
+      "model": 3,
+      "year": 2016,
+      "exterior color": "dark green",
+      "interior color": "black",
+      "owned": true
+    }
+  ]
+}

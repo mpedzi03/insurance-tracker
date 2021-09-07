@@ -1,0 +1,28 @@
+{
+  "type" : "health",
+  "company" : "Wellmark Blue Cross Blue Shield of South Dakota",
+  "coveree options": [
+    { "id": 1, "coverees": "Team Member" },
+    { "id": 2, "coverees": "Team Member & Spouse" },
+    { "id": 3, "coverees": "Team Member & Child(ren)" },
+    { "id": 4, "coverees": "Team Member & Family" }
+  ],
+  "coverage options": [
+    { "id": 1, "type": "Preferred" },
+    { "id": 2, "type": "Non-preferred" }
+  ],
+  "coverage values": [
+    { "id": 1, "coveree option id": 1, "coverage option id": 1, "cost": 76.06, "coverage amount": null },
+    { "id": 2, "coveree option id": 2, "coverage option id": 1, "cost": 278.32, "coverage amount": null },
+    { "id": 3, "coveree option id": 3, "coverage option id": 1, "cost": 148.90, "coverage amount": null },
+    { "id": 4, "coveree option id": 4, "coverage option id": 1, "cost": 410.85, "coverage amount": null },
+    { "id": 5, "coveree option id": 1, "coverage option id": 2, "cost": 95.08, "coverage amount": null },
+    { "id": 6, "coveree option id": 2, "coverage option id": 2, "cost": 347.90, "coverage amount": null },
+    { "id": 7, "coveree option id": 3, "coverage option id": 2, "cost": 186.12, "coverage amount": null },
+    { "id": 8, "coveree option id": 4, "coverage option id": 2, "cost": 513.56, "coverage amount": null }
+  ],
+  "member_id" : "X10121P110",
+  "group_id" : "BCBS2",
+  "state" : "IL",
+  "initial value": 1
+}

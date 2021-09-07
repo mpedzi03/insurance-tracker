@@ -1,0 +1,30 @@
+{
+  "category": "dental",
+  "company": "Delta Dental of Illinois",
+  "coveree options": [
+    { "id": 1, "coverees": "Team Member" },
+    { "id": 2, "coverees": "Team Member & Spouse" },
+    { "id": 3, "coverees": "Team Member & Child(ren)" },
+    { "id": 4, "coverees": "Team Member & Family" }
+  ],
+  "coverage options": [
+    { "id": 1, "type": "Core" },
+    { "id": 2, "type": "Buy-Up" }
+  ],
+  "coverage values": [
+    { "id": 1, "coveree option id": 1, "coverage option id": 1, "cost": 7.00, "coverage amount": 1000 },
+    { "id": 2, "coveree option id": 2, "coverage option id": 1, "cost": 14.00, "coverage amount": 1000 },
+    { "id": 3, "coveree option id": 3, "coverage option id": 1, "cost": 15.53, "coverage amount": 1000 },
+    { "id": 4, "coveree option id": 4, "coverage option id": 1, "cost": 24.51, "coverage amount": 1000 },
+    { "id": 5, "coveree option id": 1, "coverage option id": 2, "cost": 8.85, "coverage amount": 1500 },
+    { "id": 6, "coveree option id": 2, "coverage option id": 2, "cost": 17.70, "coverage amount": 1500 },
+    { "id": 7, "coveree option id": 3, "coverage option id": 2, "cost": 24.74, "coverage amount": 1500 },
+    { "id": 8, "coveree option id": 4, "coverage option id": 2, "cost": 36.02, "coverage amount": 1500 }
+  ],
+  "member id": "D103421",
+  "group id": "L11121",
+  "state": "IL",
+  "payment schedule": "bi-weekly",
+  "coverage time period": "yearly",
+  "initial value": 5
+}

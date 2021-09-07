@@ -1,0 +1,25 @@
+{
+  "category": "vision",
+  "company": "VSP",
+  "coveree options": [
+    { "id": 1, "coverees": "Team Member" },
+    { "id": 2, "coverees": "Team Member & Spouse" },
+    { "id": 3, "coverees": "Team Member & Child(ren)" },
+    { "id": 4, "coverees": "Team Member & Family" }
+  ],
+  "coverage options": [
+    { "id": 1, "type": "Basic" }
+  ],
+  "coverage values": [
+    { "id": 1, "coveree option id": 1, "coverage option id": 1, "cost": 2.62, "coverage amount": null },
+    { "id": 2, "coveree option id": 2, "coverage option id": 1, "cost": 4.18, "coverage amount": null },
+    { "id": 3, "coveree option id": 3, "coverage option id": 1, "cost": 4.27, "coverage amount": null },
+    { "id": 4, "coveree option id": 4, "coverage option id": 1, "cost": 6.89, "coverage amount": null }
+  ],
+  "member id": "I9332",
+  "group id": "AX112",
+  "state": "IL",
+  "payment schedule": "bi-weekly",
+  "coverage time period": "yearly",
+  "initial value": 1
+}
